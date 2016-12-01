@@ -20,6 +20,9 @@ $ npm install
 ```bash
 # run tests
 $ npm test
+
+#coverage report on browser
+open ./coverage/lcov-report/index.html
 ```
 
 ## Running the application
