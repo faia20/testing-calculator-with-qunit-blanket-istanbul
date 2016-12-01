@@ -1,0 +1,23 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "live-server": "^1.1.0",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.0.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.0.1"
+  },
+  "scripts": {
+    "test": "istanbul cover test.js",
+    "dev": "live-server --port=8000"
+  },
+  "author": "",
+  "license": "ISC"
+}
