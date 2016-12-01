@@ -25,6 +25,6 @@ $ npm test
 ## Running the application
 
 ```bash
-# run tests
-$ npm test
+# run the application
+$ npm run dev
 ```
